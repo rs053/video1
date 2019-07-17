@@ -149,7 +149,7 @@ namespace video
         }
         public bool deletecustomer(string custid)
         {
-            con.Close();
+            //con.Close();
             string str = getpath();
 
 
